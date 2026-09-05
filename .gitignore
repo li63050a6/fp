@@ -1,0 +1,5 @@
+/fp
+/fp-linux-*
+/fp-windows-*
+/fp-darwin-*
+/build/
